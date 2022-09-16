@@ -105,7 +105,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1  group-title="Lista TV2", HBO 2
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 #EXTINF:-1  group-title="Lista TV2", HBO Family
-https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family-mp4a_144800_eng=20000-2432805366220778.mp4
 #EXTINF:-1  group-title="Lista TV2", HBO Mundi
 http://regioplay.xyz/php/SR_REGIO_509022_/nuevotv2.php?c=1061&f=.m3u8
 #EXTINF:-1  group-title="Lista TV2", HBO Plus
