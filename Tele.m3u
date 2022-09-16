@@ -101,7 +101,7 @@ http://regioplay.xyz/php/SR_REGIO_509022_/tv1.php?c=117&f=.m3u8
 #EXTINF:-1  group-title="ListaTV", TNT
 http://regioplay.xyz/php/SR_REGIO_509022_/tv1.php?c=214&f=.m3u8
 #EXTINF:-1  group-title="Lista TV2", HBO
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1  group-title="Lista TV2", HBO 2
 http://regioplay.xyz/php/SR_REGIO_509022_/nuevotv2.php?c=1059&f=.m3u8
 #EXTINF:-1  group-title="Lista TV2", HBO Family
